@@ -1,0 +1,4 @@
+interface:
+  display_name: "Silas 技术公众号写作工作流"
+  short_description: "将材料写成纪实复盘或故事，研究标题供你选择，再完成公众号发布排版"
+  default_prompt: "用 $silas-wechat-writer 根据这些材料写文章，完成正文后研究标题并给我选择。"
